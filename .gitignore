@@ -1,0 +1,5 @@
+# IDE
+.idea/
+
+# Database data
+mongodb_data/
