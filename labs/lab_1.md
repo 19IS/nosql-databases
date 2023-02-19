@@ -118,7 +118,7 @@ cd "C:\Program Files\MongoDB\Server\6.0\bin"
 
 ![img_10.png](../images/img_10.png)
 
-## Задание на лабораторную работу:
+## Задание на лабораторную работу
 
 1. Установить MongoDB
 2. Установить графическую оболочку `MongoDB Compas` и `MongoDB Shell`
@@ -129,4 +129,4 @@ cd "C:\Program Files\MongoDB\Server\6.0\bin"
 
 ---
 
-[Решение к лабораторной работе №1.](lab_1_solution.md)
+[Решение к лабораторной работе №1.](../solutions/lab_1_solution.md)

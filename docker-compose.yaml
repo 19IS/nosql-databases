@@ -2,12 +2,23 @@ version: '3'
 
 services:
   mongo_database:
-    image: mongo
+    image: mongo:6.0.2
     container_name: mongo_db_container
     restart: always
     env_file:
       docker-compose.env
     ports:
-      - '27017:27017'
+      - "27017:27017"
     volumes:
       - ${PWD}/mongodb_data:/var/lib/mongodb/data
+
+  postgres_database:
+    image: postgres:15.2
+    container_name: postgres_db_container
+    restart: always
+    env_file:
+      - docker-compose.env
+    ports:
+      - "5432:5432"
+    volumes:
+      - ${PWD}/postgres_data:/var/lib/postgres/data
