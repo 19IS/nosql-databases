@@ -9,4 +9,4 @@
 
 ---
 
-[Решение к лабораторной работе №5](../solutions/lab_5_solution.md)
+[Решение к лабораторной работе №5](../solutions/lab_5/lab_5_solution.md)

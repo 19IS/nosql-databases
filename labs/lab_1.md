@@ -16,31 +16,31 @@
 
 В открытом окне нажимаем `Next`
 
-![img.png](../images/img.png)
+![img.png](../images/lab_1/img.png)
 
 Устанавливаем галочку для пункта `I accept the terms in the License Agreement` и нажимаем `Next`
 
-![img_1.png](../images/img_1.png)
+![img_1.png](../images/lab_1/img_1.png)
 
 Выбираем тип установки `Complete`
 
-![img_2.png](../images/img_2.png)
+![img_2.png](../images/lab_1/img_2.png)
 
 Убираем галочку для пункта `Install MongoDB as a Servise` и нажимаем `Next`
 
-![img_3.png](../images/img_3.png)
+![img_3.png](../images/lab_1/img_3.png)
 
 Далее нам будет предложено установить `MongoDB Compass`. Устанавливаем галочку для пункта `Install MongoDB Compass` и нажимаем next
 
-![img_4.png](../images/img_4.png)
+![img_4.png](../images/lab_1/img_4.png)
 
 Подтверждаем установку, нажав на кнопку `Install`
 
-![img_5.png](../images/img_5.png)
+![img_5.png](../images/lab_1/img_5.png)
 
 После процесса установки нам будет выведенно соответствующее оповещение.
 
-![img_6.png](../images/img_6.png)
+![img_6.png](../images/lab_1/img_6.png)
 
 ## Установка `MongoDB Shell`
 
@@ -84,7 +84,7 @@ cd "C:\Program Files\MongoDB\Server\6.0\bin"
 
 После чего будут выведены логи БД
 
-![img_7.png](../images/img_7.png)
+![img_7.png](../images/lab_1/img_7.png)
 
 ## Подключение к серверу MongoDB с попощью `MongoDB Shell`:
 
@@ -100,13 +100,13 @@ cd "C:\Program Files\MongoDB\Server\6.0\bin"
 
 После запуска mongosh и подключения к БД мы получаем доступ к выполнению различных команд, с помощью терминала.
 
-![img_8.png](../images/img_8.png)
+![img_8.png](../images/lab_1/img_8.png)
 
 ## Подключение к серверу MongoDB с попощью `MongoDB Compass`:
 
 Для подключения к серверу запустите приложение  `MongoDB Compass`.
 
-![img_9.png](../images/img_9.png)
+![img_9.png](../images/lab_1/img_9.png)
 
 Используем строку подключения по умолчанию (`mongodb://localhost:27017`) и нажимем `Connect`.
 
@@ -116,7 +116,7 @@ cd "C:\Program Files\MongoDB\Server\6.0\bin"
 - `config`
 - `local`
 
-![img_10.png](../images/img_10.png)
+![img_10.png](../images/lab_1/img_10.png)
 
 ## Задание на лабораторную работу
 
@@ -129,4 +129,4 @@ cd "C:\Program Files\MongoDB\Server\6.0\bin"
 
 ---
 
-[Решение к лабораторной работе №1.](../solutions/lab_1_solution.md)
+[Решение к лабораторной работе №1.](../solutions/lab_1/lab_1_solution.md)

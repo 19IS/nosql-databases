@@ -8,7 +8,7 @@
     db.laptops.find({ "specs.manufacturer": "HP" })
     ```
   
-    ![lab_5_screenshot_1.png](../images/lab_5_screenshot_1.png)
+    ![lab_5_screenshot_1.png](../../images/lab_5/lab_5_screenshot_1.png)
 
 - Запрос на выборку ноутбуков, имеющихся в наличии:
 
@@ -16,7 +16,7 @@
     db.laptops.find({ "in_stock": true })
     ```
   
-    ![lab_5_screenshot_2.png](../images/lab_5_screenshot_2.png)'
+    ![lab_5_screenshot_2.png](../../images/lab_5/lab_5_screenshot_2.png)'
 
 ## Задание 2. Создайте сложные запросы с каждым из перечисленных модификаторов
 
@@ -26,7 +26,7 @@
     db.laptops.find({ "specs.manufacturer": "Apple", "in_stock": true })
     ```
     
-    ![lab_5_screenshot_3.png](../images/lab_5_screenshot_3.png)
+    ![lab_5_screenshot_3.png](../../images/lab_5/lab_5_screenshot_3.png)
 
 - Запрос на выборку ноутбуков, у которых производитель "Apple" или "Samsung"
   
@@ -34,7 +34,7 @@
     db.laptops.find({ $or: [{"specs.manufacturer": "Apple"}, {"specs.manufacturer": "Samsung"}] })
     ```
     
-    ![lab_5_screenshot_4.png](../images/lab_5_screenshot_4.png)
+    ![lab_5_screenshot_4.png](../../images/lab_5/lab_5_screenshot_4.png)
 
 - Запрос на выборку количества ноутбуков до 10000.0 р
   
@@ -42,7 +42,7 @@
     db.laptops.find({ "price": { $lt: 10000.0 }})
     ```
   
-    ![lab_5_screenshot_5.png](../images/lab_5_screenshot_5.png)
+    ![lab_5_screenshot_5.png](../../images/lab_5/lab_5_screenshot_5.png)
 
 - Запрос на выборку количества ноутбуков от 15000.0 р
 
@@ -50,7 +50,7 @@
     db.laptops.find({ "price": { $gt: 15000.0 }})
     ```
   
-    ![lab_5_screenshot_6.png](../images/lab_5_screenshot_6.png)
+    ![lab_5_screenshot_6.png](../../images/lab_5/lab_5_screenshot_6.png)
 
 - Запрос на выборку количества ноутбуков НЕ от "Apple"
 
@@ -58,7 +58,7 @@
     db.laptops.find({ "specs.manufacturer": { $ne: "Apple" }})
     ```
   
-    ![lab_5_screenshot_7.png](../images/lab_5_screenshot_7.png)
+    ![lab_5_screenshot_7.png](../../images/lab_5/lab_5_screenshot_7.png)
 
 - Запрос на выборку количества ноутбуков, у которых производитель "Apple", "HP" или "Samsung"
 
@@ -66,7 +66,7 @@
     db.laptops.find({ "specs.manufacturer": { $in: ["Apple", "HP", "Samsung"] }})
     ```
 
-    ![lab_5_screenshot_8.png](../images/lab_5_screenshot_8.png)
+    ![lab_5_screenshot_8.png](../../images/lab_5/lab_5_screenshot_8.png)
 
 ## Задание 3. Создайте запросы с использованием методов сортировки, ограничения и пропуска данных
 
@@ -76,7 +76,7 @@
     db.laptops.distinct("specs.manufacturer")
     ```
   
-    ![lab_5_screenshot_9.png](../images/lab_5_screenshot_9.png)
+    ![lab_5_screenshot_9.png](../../images/lab_5/lab_5_screenshot_9.png)
 
 - Запрос на выборку топ 5 самых дорогих ноутбуков (по убыванию)
 
@@ -84,7 +84,7 @@
     db.laptops.find({}, {"name": 1, "price": 1}).sort({"price": -1}).limit(5);
     ```
   
-    ![lab_5_screenshot_10.png](../images/lab_5_screenshot_10.png)
+    ![lab_5_screenshot_10.png](../../images/lab_5/lab_5_screenshot_10.png)
 
 - Запрос на выборку топ 5 самых дешевых ноутбуков, пропустив 10 самых дешевых
 
@@ -92,4 +92,4 @@
     db.laptops.find({}, {"name": 1, "price": 1}).sort({"price": 1}).skip(10).limit(5);
     ```
   
-    ![lab_5_screenshot_11.png](../images/lab_5_screenshot_11.png)
+    ![lab_5_screenshot_11.png](../../images/lab_5/lab_5_screenshot_11.png)

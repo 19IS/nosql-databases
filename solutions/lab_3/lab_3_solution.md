@@ -8,7 +8,7 @@
 
 Схем БД магазина, торгующим ноутбуками выглядит следующим образом:
 
-![img_1.png](../images/lab_3_screenshot_1.png)
+![img_1.png](../../images/lab_3/lab_3_screenshot_1.png)
 
 В данной бд представлено 5 таблиц:
 
@@ -93,7 +93,7 @@ close_date date null
 
 Если вы использовали инструмент [QuickDBB](https://www.quickdatabasediagrams.com/), то после создания схемы можно сразу получить сгенерированный запрос на создание таблиц и связей между ними. Для этого нужно нажать на кнопку `EXPORT` и выбрать тип СУБД.
 
-![img_4.png](../images/lab_3_screenshot_2.png)
+![img_4.png](../../images/lab_3/lab_3_screenshot_2.png)
 
 После загрузки файла с командами откройте его, скопируйте все его содержимое и выполните запрос в вашей СУБД
 
@@ -173,7 +173,7 @@ REFERENCES "main_db"."public"."notebooks" ("id");
 
 После выполнения запроса в базе `main_db` схеме `public` появятся 5 таблиц
 
-![img.png](../images/lab_3_screenshot_3.png)
+![img.png](../../images/lab_3/lab_3_screenshot_3.png)
 
 ## Задание 3. Заполнить базу данных произвольными данными.
 
@@ -203,9 +203,9 @@ INSERT INTO "main_db"."public"."orders" VALUES
 
 Приверы вывода данных из таблиц:
 
-![img.png](../images/lab_3_screenshot_4.png)
+![img.png](../../images/lab_3/lab_3_screenshot_4.png)
 
-![img_1.png](../images/lab_3_screenshot_5.png)
+![img_1.png](../../images/lab_3/lab_3_screenshot_5.png)
 
 ## Задание 4. Представить созданную на предыдущем шаге БД в не реляционном виде, записанную в `JSON`.
 

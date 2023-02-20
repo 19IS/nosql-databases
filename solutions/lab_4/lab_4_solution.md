@@ -71,9 +71,9 @@ db.laptops.getIndexes();
 db.laptops.updateOne( {_id: ObjectId('63f2690611153ea7202a9ee6') }, {$set: { in_stock: false} });
 ```
 
-![img.png](../images/lab_4_screenshot_1.png)
+![img.png](../../images/lab_4/lab_4_screenshot_1.png)
 
-![img_1.png](../images/lab_4_screenshot_2.png)
+![img_1.png](../../images/lab_4/lab_4_screenshot_2.png)
 
 Запрос на добавление поля `bestseller` для ноутбука с `_id=ObjectId('63f2690611153ea7202a9ee6')`:
 
@@ -81,7 +81,7 @@ db.laptops.updateOne( {_id: ObjectId('63f2690611153ea7202a9ee6') }, {$set: { in_
 db.laptops.updateOne( {_id: ObjectId('63f2690611153ea7202a9ee6') }, {$set: { bestseller: true} });
 ```
 
-![img_2.png](../images/lab_4_screenshot_3.png)
+![img_2.png](../../images/lab_4/lab_4_screenshot_3.png)
 
 ## Задание 7. Создайте запрос для получения всех документов коллекции и определите, используется ли для него индекс.
 
@@ -91,7 +91,7 @@ db.laptops.updateOne( {_id: ObjectId('63f2690611153ea7202a9ee6') }, {$set: { bes
 db.laptops.find();
 ```
 
-![img_3.png](../images/lab_4_screenshot_4.png)
+![img_3.png](../../images/lab_4/lab_4_screenshot_4.png)
 
 Команда для получения информации об обработке запроса
 

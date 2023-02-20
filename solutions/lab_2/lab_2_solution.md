@@ -2,7 +2,7 @@
 
 ## Задание 1. Произведите подключение к тестовой базе данных.
 
-Подключение к базе данных описано в [Лабораторной работе №1](../labs/lab_1.md)
+Подключение к базе данных описано в [Лабораторной работе №1](../../labs/lab_1.md)
 
 ## Задание 2. Добавьте произвольные данные в базу данных с использованием командной строки.
 
@@ -122,16 +122,16 @@ db.students.find();
 
 Для выполнения данного задания, добавим еще одного студента в коллекцию `students`.
 
-![img.png](../images/lab_2_screenshot_1.png)
+![img.png](../../images/lab_2/lab_2_screenshot_1.png)
 
 Для добавления нового документа необходимо нажать на `ADD DATA` и выбрать `Insert document`:
 
-![img_1.png](../images/lab_2_screenshot_2.png)
+![img_1.png](../../images/lab_2/lab_2_screenshot_2.png)
 
 Далее добавляем необходимые поля для документа и после этого нажимаем `Insert`:
 
-![img_2.png](../images/lab_2_screenshot_3.png)
+![img_2.png](../../images/lab_2/lab_2_screenshot_3.png)
 
 После чего в коллекции `students` должен появиться новый документ:
 
-![img_3.png](../images/lab_2_screenshot_4.png)
+![img_3.png](../../images/lab_2/lab_2_screenshot_4.png)
