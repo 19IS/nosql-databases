@@ -65,7 +65,7 @@ def run():
             'manufacturer': manufacturer,
             'model': model
         }
-        notebooks_collection[index]['in_stock'] = random.choice(['true', 'false'])
+        notebooks_collection[index]['in_stock'] = random.choice([True, False])
         notebooks_collection[index]['colors'] = random.choices(COLORS, k=3)
         notebooks_collection[index]['price'] = round(random.uniform(6000.0, 30000.0), 1)
 
