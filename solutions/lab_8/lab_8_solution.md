@@ -89,3 +89,65 @@
   }
   
   ```
+  > **Note**: Однако `mapReduce` является устаревшим начиная с версии `MongoDB 5.0`
+- Выполним запрос с использованием `aggregate`:
+
+  ```javascript
+  db.smartphones.aggregate([
+      {
+          $addFields: {
+              "year": {
+                  $year: "$date"
+              },
+              "month": {
+                  $month: "$date"
+              },
+              "day": {
+                  $dayOfMonth: "$date"
+              },
+              "count": 1
+          }
+      },
+      {
+          $group: {
+              "_id": {
+                  "name": "$name",
+                  "year": "$year",
+                  "month":  "$month",
+                  "day": "$day"
+              },
+              "count": {$sum: "$count"}
+          }
+      },
+      {
+          $sort: {
+              "name": -1
+          }
+      }
+  ]);
+  ```
+> **Note**: Результат запроса немного отличается т.к. во-вопервых представленные выше функции (взятые из методичны) не корректно берут номер месяца (0-го месяца не бывает), а во-вторых результат агрегации выведен в виде поля, а не в виде значения поля `value`.
+  ```javascript
+  [
+    {
+      _id: { name: 'iPhone 4', year: 2013, month: 1, day: 21 },
+      count: 3
+    },
+    {
+      _id: { name: 'iPhone 4', year: 2013, month: 1, day: 20 },
+      count: 1
+    },
+    {
+      _id: { name: 'Nexus One', year: 2013, month: 1, day: 21 },
+      count: 2
+    },
+    {
+      _id: { name: 'Nexus One', year: 2013, month: 1, day: 22 },
+      count: 1
+    },
+    {
+      _id: { name: 'Nexus One', year: 2013, month: 1, day: 20 },
+      count: 3
+    }
+  ]
+  ```
