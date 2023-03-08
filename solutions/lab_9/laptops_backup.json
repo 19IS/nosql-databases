@@ -1,0 +1,1772 @@
+[{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29645"
+  },
+  "code": null,
+  "name": "Dell Portable Pump",
+  "img": null,
+  "specs": {
+    "manufacturer": "Dell",
+    "model": "Portable Pump"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "black",
+    "titan"
+  ],
+  "price": 22811.6
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29646"
+  },
+  "code": null,
+  "name": "Microsoft Laptopinator",
+  "img": null,
+  "specs": {
+    "manufacturer": "Microsoft",
+    "model": "Laptopinator"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "blue",
+    "titan"
+  ],
+  "price": 14540.1
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29647"
+  },
+  "code": null,
+  "name": "Microsoft Laptop Lord",
+  "img": null,
+  "specs": {
+    "manufacturer": "Microsoft",
+    "model": "Laptop Lord"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "blue",
+    "titan"
+  ],
+  "price": 24458.6
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29648"
+  },
+  "code": null,
+  "name": "Dell Laptop Lord",
+  "img": null,
+  "specs": {
+    "manufacturer": "Dell",
+    "model": "Laptop Lord"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "grey",
+    "titan"
+  ],
+  "price": 17103.9
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29649"
+  },
+  "code": null,
+  "name": "HP My Love and Life",
+  "img": null,
+  "specs": {
+    "manufacturer": "HP",
+    "model": "My Love and Life"
+  },
+  "in_stock": false,
+  "colors": [
+    "yellow"
+  ],
+  "price": 7436.8
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a2964a"
+  },
+  "code": null,
+  "name": "Razer Speedo Ninja",
+  "img": null,
+  "specs": {
+    "manufacturer": "Razer",
+    "model": "Speedo Ninja"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "yellow",
+    "titan"
+  ],
+  "price": 14680.7
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a2964b"
+  },
+  "code": null,
+  "name": "Samsung Binary Baron",
+  "img": null,
+  "specs": {
+    "manufacturer": "Samsung",
+    "model": "Binary Baron"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "grey",
+    "titan"
+  ],
+  "price": 12233.9
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a2964c"
+  },
+  "code": null,
+  "name": "Samsung Computing Crusader",
+  "img": null,
+  "specs": {
+    "manufacturer": "Samsung",
+    "model": "Computing Crusader"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "carbon",
+    "titan"
+  ],
+  "price": 10300.3
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a2964d"
+  },
+  "code": null,
+  "name": "Dell Silicon Squire",
+  "img": null,
+  "specs": {
+    "manufacturer": "Dell",
+    "model": "Silicon Squire"
+  },
+  "in_stock": false,
+  "colors": [
+    "yellow"
+  ],
+  "price": 7651.6
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a2964e"
+  },
+  "code": null,
+  "name": "Samsung Digital Duchess",
+  "img": null,
+  "specs": {
+    "manufacturer": "Samsung",
+    "model": "Digital Duchess"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "carbon",
+    "titan"
+  ],
+  "price": 26782.3
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a2964f"
+  },
+  "code": null,
+  "name": "Apple Silicon Squire",
+  "img": null,
+  "specs": {
+    "manufacturer": "Apple",
+    "model": "Silicon Squire"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "blue",
+    "orange",
+    "titan"
+  ],
+  "price": 26315.1
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29650"
+  },
+  "code": null,
+  "name": "Asus Lord of Laptops",
+  "img": null,
+  "specs": {
+    "manufacturer": "Asus",
+    "model": "Lord of Laptops"
+  },
+  "in_stock": false,
+  "colors": [
+    "red"
+  ],
+  "price": 7048.7
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29651"
+  },
+  "code": null,
+  "name": "Razer Notebook Noble",
+  "img": null,
+  "specs": {
+    "manufacturer": "Razer",
+    "model": "Notebook Noble"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "red",
+    "titan"
+  ],
+  "price": 12225.7
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29652"
+  },
+  "code": null,
+  "name": "Razer Digital Duchess",
+  "img": null,
+  "specs": {
+    "manufacturer": "Razer",
+    "model": "Digital Duchess"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "carbon",
+    "titan"
+  ],
+  "price": 24962.8
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29653"
+  },
+  "code": null,
+  "name": "Samsung Binary Baron",
+  "img": null,
+  "specs": {
+    "manufacturer": "Samsung",
+    "model": "Binary Baron"
+  },
+  "in_stock": false,
+  "colors": [
+    "grey",
+    "titan"
+  ],
+  "price": 26771.7
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29654"
+  },
+  "code": null,
+  "name": "Lenovo Lappy Mc Lappface",
+  "img": null,
+  "specs": {
+    "manufacturer": "Lenovo",
+    "model": "Lappy Mc Lappface"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "yellow",
+    "titan"
+  ],
+  "price": 18732.3
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29655"
+  },
+  "code": null,
+  "name": "Razer Bombastic",
+  "img": null,
+  "specs": {
+    "manufacturer": "Razer",
+    "model": "Bombastic"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "carbon",
+    "titan"
+  ],
+  "price": 27055.3
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29656"
+  },
+  "code": null,
+  "name": "Razer Hp Blaster",
+  "img": null,
+  "specs": {
+    "manufacturer": "Razer",
+    "model": "Hp Blaster"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "black",
+    "titan"
+  ],
+  "price": 10907.8
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29657"
+  },
+  "code": null,
+  "name": "Asus 007 Buddy",
+  "img": null,
+  "specs": {
+    "manufacturer": "Asus",
+    "model": "007 Buddy"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "black",
+    "titan"
+  ],
+  "price": 29665.7
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29658"
+  },
+  "code": null,
+  "name": "Asus Keyboard Kombatant",
+  "img": null,
+  "specs": {
+    "manufacturer": "Asus",
+    "model": "Keyboard Kombatant"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "grey",
+    "titan"
+  ],
+  "price": 14241.4
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29659"
+  },
+  "code": null,
+  "name": "Asus Laptop Lothario",
+  "img": null,
+  "specs": {
+    "manufacturer": "Asus",
+    "model": "Laptop Lothario"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "yellow"
+  ],
+  "price": 6875.5
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a2965a"
+  },
+  "code": null,
+  "name": "Acer Laptop Luminary",
+  "img": null,
+  "specs": {
+    "manufacturer": "Acer",
+    "model": "Laptop Luminary"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "titan"
+  ],
+  "price": 16698.3
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a2965b"
+  },
+  "code": null,
+  "name": "Apple Techno Tyrant",
+  "img": null,
+  "specs": {
+    "manufacturer": "Apple",
+    "model": "Techno Tyrant"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "yellow",
+    "orange",
+    "titan"
+  ],
+  "price": 27375.1
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a2965c"
+  },
+  "code": null,
+  "name": "MSI Data Duke",
+  "img": null,
+  "specs": {
+    "manufacturer": "MSI",
+    "model": "Data Duke"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "blue",
+    "titan"
+  ],
+  "price": 15883.4
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a2965d"
+  },
+  "code": null,
+  "name": "Lenovo Notebook Noble",
+  "img": null,
+  "specs": {
+    "manufacturer": "Lenovo",
+    "model": "Notebook Noble"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "yellow",
+    "titan"
+  ],
+  "price": 21464.1
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a2965e"
+  },
+  "code": null,
+  "name": "Lenovo Binary Baron",
+  "img": null,
+  "specs": {
+    "manufacturer": "Lenovo",
+    "model": "Binary Baron"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "white",
+    "titan"
+  ],
+  "price": 17820.8
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a2965f"
+  },
+  "code": null,
+  "name": "Samsung My Love and Life",
+  "img": null,
+  "specs": {
+    "manufacturer": "Samsung",
+    "model": "My Love and Life"
+  },
+  "in_stock": false,
+  "colors": [
+    "white",
+    "titan"
+  ],
+  "price": 13563.7
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29660"
+  },
+  "code": null,
+  "name": "Razer Fast and Laptorious",
+  "img": null,
+  "specs": {
+    "manufacturer": "Razer",
+    "model": "Fast and Laptorious"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "blue",
+    "titan"
+  ],
+  "price": 25195.5
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29661"
+  },
+  "code": null,
+  "name": "Apple Bombastic",
+  "img": null,
+  "specs": {
+    "manufacturer": "Apple",
+    "model": "Bombastic"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "grey",
+    "orange",
+    "titan"
+  ],
+  "price": 24155.5
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29662"
+  },
+  "code": null,
+  "name": "Microsoft Laptopinator",
+  "img": null,
+  "specs": {
+    "manufacturer": "Microsoft",
+    "model": "Laptopinator"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "yellow"
+  ],
+  "price": 8035.3
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29663"
+  },
+  "code": null,
+  "name": "Acer Data Duke",
+  "img": null,
+  "specs": {
+    "manufacturer": "Acer",
+    "model": "Data Duke"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "titan"
+  ],
+  "price": 12329.7
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29664"
+  },
+  "code": null,
+  "name": "HP Laptop Lady",
+  "img": null,
+  "specs": {
+    "manufacturer": "HP",
+    "model": "Laptop Lady"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "blue",
+    "titan"
+  ],
+  "price": 13623.5
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29665"
+  },
+  "code": null,
+  "name": "HP Laptop Lord",
+  "img": null,
+  "specs": {
+    "manufacturer": "HP",
+    "model": "Laptop Lord"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "white",
+    "titan"
+  ],
+  "price": 29698.1
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29666"
+  },
+  "code": null,
+  "name": "Samsung Silicon Squire",
+  "img": null,
+  "specs": {
+    "manufacturer": "Samsung",
+    "model": "Silicon Squire"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "white",
+    "titan"
+  ],
+  "price": 19592.2
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29667"
+  },
+  "code": null,
+  "name": "Dell Lappy Mc Lappface",
+  "img": null,
+  "specs": {
+    "manufacturer": "Dell",
+    "model": "Lappy Mc Lappface"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "carbon",
+    "titan"
+  ],
+  "price": 18321.5
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29668"
+  },
+  "code": null,
+  "name": "Apple My Love and Life",
+  "img": null,
+  "specs": {
+    "manufacturer": "Apple",
+    "model": "My Love and Life"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "black",
+    "orange",
+    "titan"
+  ],
+  "price": 29450.5
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29669"
+  },
+  "code": null,
+  "name": "Apple Laptop Luminary",
+  "img": null,
+  "specs": {
+    "manufacturer": "Apple",
+    "model": "Laptop Luminary"
+  },
+  "in_stock": false,
+  "colors": [
+    "yellow",
+    "orange",
+    "titan"
+  ],
+  "price": 19040.5
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a2966a"
+  },
+  "code": null,
+  "name": "Acer Laptopinator",
+  "img": null,
+  "specs": {
+    "manufacturer": "Acer",
+    "model": "Laptopinator"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "black"
+  ],
+  "price": 7788.4
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a2966b"
+  },
+  "code": null,
+  "name": "Apple Techno Tyrant",
+  "img": null,
+  "specs": {
+    "manufacturer": "Apple",
+    "model": "Techno Tyrant"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "grey",
+    "orange",
+    "titan"
+  ],
+  "price": 14360.1
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a2966c"
+  },
+  "code": null,
+  "name": "Razer Laptop Lady",
+  "img": null,
+  "specs": {
+    "manufacturer": "Razer",
+    "model": "Laptop Lady"
+  },
+  "in_stock": false,
+  "colors": [
+    "red"
+  ],
+  "price": 9129.2
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a2966d"
+  },
+  "code": null,
+  "name": "HP Binary Baron",
+  "img": null,
+  "specs": {
+    "manufacturer": "HP",
+    "model": "Binary Baron"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "black",
+    "titan"
+  ],
+  "price": 26613
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a2966e"
+  },
+  "code": null,
+  "name": "Apple 007 Buddy",
+  "img": null,
+  "specs": {
+    "manufacturer": "Apple",
+    "model": "007 Buddy"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "grey",
+    "orange",
+    "titan"
+  ],
+  "price": 25385.1
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a2966f"
+  },
+  "code": null,
+  "name": "Lenovo Hp Blaster",
+  "img": null,
+  "specs": {
+    "manufacturer": "Lenovo",
+    "model": "Hp Blaster"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "grey",
+    "titan"
+  ],
+  "price": 11710.5
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29670"
+  },
+  "code": null,
+  "name": "Samsung Bombastic",
+  "img": null,
+  "specs": {
+    "manufacturer": "Samsung",
+    "model": "Bombastic"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "yellow",
+    "titan"
+  ],
+  "price": 24652.8
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29671"
+  },
+  "code": null,
+  "name": "Lenovo Lord of Laptops",
+  "img": null,
+  "specs": {
+    "manufacturer": "Lenovo",
+    "model": "Lord of Laptops"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "red",
+    "titan"
+  ],
+  "price": 17449.2
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29672"
+  },
+  "code": null,
+  "name": "Dell Laptop Leviathan",
+  "img": null,
+  "specs": {
+    "manufacturer": "Dell",
+    "model": "Laptop Leviathan"
+  },
+  "in_stock": false,
+  "colors": [
+    "white",
+    "titan"
+  ],
+  "price": 19805.9
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29673"
+  },
+  "code": null,
+  "name": "MSI Laptop Lothario",
+  "img": null,
+  "specs": {
+    "manufacturer": "MSI",
+    "model": "Laptop Lothario"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "grey",
+    "titan"
+  ],
+  "price": 17668.9
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29674"
+  },
+  "code": null,
+  "name": "Dell Fast and Laptorious",
+  "img": null,
+  "specs": {
+    "manufacturer": "Dell",
+    "model": "Fast and Laptorious"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "black",
+    "titan"
+  ],
+  "price": 15573.6
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29675"
+  },
+  "code": null,
+  "name": "Lenovo Cyber Count",
+  "img": null,
+  "specs": {
+    "manufacturer": "Lenovo",
+    "model": "Cyber Count"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "blue",
+    "titan"
+  ],
+  "price": 20034
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29676"
+  },
+  "code": null,
+  "name": "Dell Circuitry Countess",
+  "img": null,
+  "specs": {
+    "manufacturer": "Dell",
+    "model": "Circuitry Countess"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "yellow"
+  ],
+  "price": 6246.3
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29677"
+  },
+  "code": null,
+  "name": "Samsung Wish Comes",
+  "img": null,
+  "specs": {
+    "manufacturer": "Samsung",
+    "model": "Wish Comes"
+  },
+  "in_stock": false,
+  "colors": [
+    "carbon",
+    "titan"
+  ],
+  "price": 14404.8
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29678"
+  },
+  "code": null,
+  "name": "Microsoft Notebook Noble",
+  "img": null,
+  "specs": {
+    "manufacturer": "Microsoft",
+    "model": "Notebook Noble"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "titan"
+  ],
+  "price": 25262.5
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29679"
+  },
+  "code": null,
+  "name": "Acer Laptop Lothario",
+  "img": null,
+  "specs": {
+    "manufacturer": "Acer",
+    "model": "Laptop Lothario"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "white",
+    "titan"
+  ],
+  "price": 19109.3
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a2967a"
+  },
+  "code": null,
+  "name": "HP 007 Buddy",
+  "img": null,
+  "specs": {
+    "manufacturer": "HP",
+    "model": "007 Buddy"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "yellow",
+    "titan"
+  ],
+  "price": 25370.1
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a2967b"
+  },
+  "code": null,
+  "name": "Acer Portable Pump",
+  "img": null,
+  "specs": {
+    "manufacturer": "Acer",
+    "model": "Portable Pump"
+  },
+  "in_stock": false,
+  "colors": [
+    "blue",
+    "titan"
+  ],
+  "price": 11419.1
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a2967c"
+  },
+  "code": null,
+  "name": "Asus Computing Crusader",
+  "img": null,
+  "specs": {
+    "manufacturer": "Asus",
+    "model": "Computing Crusader"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "carbon",
+    "titan"
+  ],
+  "price": 13196.6
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a2967d"
+  },
+  "code": null,
+  "name": "Asus Laptopinator",
+  "img": null,
+  "specs": {
+    "manufacturer": "Asus",
+    "model": "Laptopinator"
+  },
+  "in_stock": false,
+  "colors": [
+    "blue",
+    "titan"
+  ],
+  "price": 20700.1
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a2967e"
+  },
+  "code": null,
+  "name": "Acer Circuitry Countess",
+  "img": null,
+  "specs": {
+    "manufacturer": "Acer",
+    "model": "Circuitry Countess"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "white",
+    "titan"
+  ],
+  "price": 24947.3
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a2967f"
+  },
+  "code": null,
+  "name": "Acer Laptopinator",
+  "img": null,
+  "specs": {
+    "manufacturer": "Acer",
+    "model": "Laptopinator"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "carbon",
+    "titan"
+  ],
+  "price": 28050.2
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29680"
+  },
+  "code": null,
+  "name": "Razer Data Duke",
+  "img": null,
+  "specs": {
+    "manufacturer": "Razer",
+    "model": "Data Duke"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "titan"
+  ],
+  "price": 29058.6
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29681"
+  },
+  "code": null,
+  "name": "MSI My Love and Life",
+  "img": null,
+  "specs": {
+    "manufacturer": "MSI",
+    "model": "My Love and Life"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "grey",
+    "titan"
+  ],
+  "price": 29349.4
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29682"
+  },
+  "code": null,
+  "name": "Apple Laptop Lord",
+  "img": null,
+  "specs": {
+    "manufacturer": "Apple",
+    "model": "Laptop Lord"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "black",
+    "orange",
+    "titan"
+  ],
+  "price": 10605.5
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29683"
+  },
+  "code": null,
+  "name": "Lenovo Digital Duke",
+  "img": null,
+  "specs": {
+    "manufacturer": "Lenovo",
+    "model": "Digital Duke"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "carbon",
+    "titan"
+  ],
+  "price": 24876.2
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29684"
+  },
+  "code": null,
+  "name": "HP Bombastic",
+  "img": null,
+  "specs": {
+    "manufacturer": "HP",
+    "model": "Bombastic"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "carbon",
+    "titan"
+  ],
+  "price": 26492.3
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29685"
+  },
+  "code": null,
+  "name": "Samsung Notebook Noble",
+  "img": null,
+  "specs": {
+    "manufacturer": "Samsung",
+    "model": "Notebook Noble"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "white",
+    "titan"
+  ],
+  "price": 23444.2
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29686"
+  },
+  "code": null,
+  "name": "Acer Pixelated Prince",
+  "img": null,
+  "specs": {
+    "manufacturer": "Acer",
+    "model": "Pixelated Prince"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "white",
+    "titan"
+  ],
+  "price": 16449.9
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29687"
+  },
+  "code": null,
+  "name": "Lenovo Wish Comes",
+  "img": null,
+  "specs": {
+    "manufacturer": "Lenovo",
+    "model": "Wish Comes"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "yellow",
+    "titan"
+  ],
+  "price": 28217.8
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29688"
+  },
+  "code": null,
+  "name": "Dell Computing Crusader",
+  "img": null,
+  "specs": {
+    "manufacturer": "Dell",
+    "model": "Computing Crusader"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "black",
+    "titan"
+  ],
+  "price": 19080.7
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29689"
+  },
+  "code": null,
+  "name": "Asus Silicon Squire",
+  "img": null,
+  "specs": {
+    "manufacturer": "Asus",
+    "model": "Silicon Squire"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "titan"
+  ],
+  "price": 21570
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a2968a"
+  },
+  "code": null,
+  "name": "Samsung Laptop Laird",
+  "img": null,
+  "specs": {
+    "manufacturer": "Samsung",
+    "model": "Laptop Laird"
+  },
+  "in_stock": false,
+  "colors": [
+    "grey"
+  ],
+  "price": 8509
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a2968b"
+  },
+  "code": null,
+  "name": "Razer Lappy Mc Lappface",
+  "img": null,
+  "specs": {
+    "manufacturer": "Razer",
+    "model": "Lappy Mc Lappface"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "titan"
+  ],
+  "price": 29709
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a2968c"
+  },
+  "code": null,
+  "name": "Asus Pixelated Prince",
+  "img": null,
+  "specs": {
+    "manufacturer": "Asus",
+    "model": "Pixelated Prince"
+  },
+  "in_stock": false,
+  "colors": [
+    "black"
+  ],
+  "price": 8905.7
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a2968d"
+  },
+  "code": null,
+  "name": "HP Speedo Ninja",
+  "img": null,
+  "specs": {
+    "manufacturer": "HP",
+    "model": "Speedo Ninja"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "black",
+    "titan"
+  ],
+  "price": 24961.1
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a2968e"
+  },
+  "code": null,
+  "name": "Samsung Notebook Noble",
+  "img": null,
+  "specs": {
+    "manufacturer": "Samsung",
+    "model": "Notebook Noble"
+  },
+  "in_stock": false,
+  "colors": [
+    "white"
+  ],
+  "price": 8973
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a2968f"
+  },
+  "code": null,
+  "name": "Asus 007 Buddy",
+  "img": null,
+  "specs": {
+    "manufacturer": "Asus",
+    "model": "007 Buddy"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "blue",
+    "titan"
+  ],
+  "price": 20409.1
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29690"
+  },
+  "code": null,
+  "name": "Microsoft Laptop Lady",
+  "img": null,
+  "specs": {
+    "manufacturer": "Microsoft",
+    "model": "Laptop Lady"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "grey",
+    "titan"
+  ],
+  "price": 11704.1
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29691"
+  },
+  "code": null,
+  "name": "Dell Silicon Squire",
+  "img": null,
+  "specs": {
+    "manufacturer": "Dell",
+    "model": "Silicon Squire"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "black",
+    "titan"
+  ],
+  "price": 12374.5
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29692"
+  },
+  "code": null,
+  "name": "Microsoft Notebook Noble",
+  "img": null,
+  "specs": {
+    "manufacturer": "Microsoft",
+    "model": "Notebook Noble"
+  },
+  "in_stock": false,
+  "colors": [
+    "white",
+    "titan"
+  ],
+  "price": 24417.9
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29693"
+  },
+  "code": null,
+  "name": "Samsung Laptop Legend",
+  "img": null,
+  "specs": {
+    "manufacturer": "Samsung",
+    "model": "Laptop Legend"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "yellow"
+  ],
+  "price": 6475.3
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29694"
+  },
+  "code": null,
+  "name": "Razer Laptop Lord",
+  "img": null,
+  "specs": {
+    "manufacturer": "Razer",
+    "model": "Laptop Lord"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "black",
+    "titan"
+  ],
+  "price": 20011.8
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29695"
+  },
+  "code": null,
+  "name": "Microsoft Speedo Ninja",
+  "img": null,
+  "specs": {
+    "manufacturer": "Microsoft",
+    "model": "Speedo Ninja"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "titan"
+  ],
+  "price": 26882.2
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29696"
+  },
+  "code": null,
+  "name": "Razer Laptop Lord",
+  "img": null,
+  "specs": {
+    "manufacturer": "Razer",
+    "model": "Laptop Lord"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "yellow"
+  ],
+  "price": 7738
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29697"
+  },
+  "code": null,
+  "name": "MSI Cyber Count",
+  "img": null,
+  "specs": {
+    "manufacturer": "MSI",
+    "model": "Cyber Count"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "white",
+    "titan"
+  ],
+  "price": 24185.3
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29698"
+  },
+  "code": null,
+  "name": "Microsoft Lord of Laptops",
+  "img": null,
+  "specs": {
+    "manufacturer": "Microsoft",
+    "model": "Lord of Laptops"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "grey",
+    "titan"
+  ],
+  "price": 20074.6
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a29699"
+  },
+  "code": null,
+  "name": "Apple Laptop Legend",
+  "img": null,
+  "specs": {
+    "manufacturer": "Apple",
+    "model": "Laptop Legend"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "carbon",
+    "orange",
+    "titan"
+  ],
+  "price": 19263.1
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a2969a"
+  },
+  "code": null,
+  "name": "Acer Digital Duchess",
+  "img": null,
+  "specs": {
+    "manufacturer": "Acer",
+    "model": "Digital Duchess"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "carbon",
+    "titan"
+  ],
+  "price": 13749.5
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a2969b"
+  },
+  "code": null,
+  "name": "Lenovo Laptop Lord",
+  "img": null,
+  "specs": {
+    "manufacturer": "Lenovo",
+    "model": "Laptop Lord"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "blue"
+  ],
+  "price": 6814.1
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a2969c"
+  },
+  "code": null,
+  "name": "Apple Laptop Laird",
+  "img": null,
+  "specs": {
+    "manufacturer": "Apple",
+    "model": "Laptop Laird"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "black",
+    "orange",
+    "titan"
+  ],
+  "price": 20518.7
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a2969d"
+  },
+  "code": null,
+  "name": "Samsung Keyboard Kombatant",
+  "img": null,
+  "specs": {
+    "manufacturer": "Samsung",
+    "model": "Keyboard Kombatant"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "carbon",
+    "titan"
+  ],
+  "price": 27837.6
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a2969e"
+  },
+  "code": null,
+  "name": "Razer 007 Buddy",
+  "img": null,
+  "specs": {
+    "manufacturer": "Razer",
+    "model": "007 Buddy"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "titan"
+  ],
+  "price": 12197.2
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a2969f"
+  },
+  "code": null,
+  "name": "Acer Bombastic",
+  "img": null,
+  "specs": {
+    "manufacturer": "Acer",
+    "model": "Bombastic"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "titan"
+  ],
+  "price": 20501.6
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a296a0"
+  },
+  "code": null,
+  "name": "Acer Wish Comes",
+  "img": null,
+  "specs": {
+    "manufacturer": "Acer",
+    "model": "Wish Comes"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "blue",
+    "titan"
+  ],
+  "price": 15115.4
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a296a1"
+  },
+  "code": null,
+  "name": "Asus Computing Crusader",
+  "img": null,
+  "specs": {
+    "manufacturer": "Asus",
+    "model": "Computing Crusader"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "blue",
+    "titan"
+  ],
+  "price": 22911.9
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a296a2"
+  },
+  "code": null,
+  "name": "Lenovo Speedo Ninja",
+  "img": null,
+  "specs": {
+    "manufacturer": "Lenovo",
+    "model": "Speedo Ninja"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "white",
+    "titan"
+  ],
+  "price": 24578.4
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a296a3"
+  },
+  "code": null,
+  "name": "Microsoft Laptopinator",
+  "img": null,
+  "specs": {
+    "manufacturer": "Microsoft",
+    "model": "Laptopinator"
+  },
+  "in_stock": false,
+  "colors": [
+    "blue",
+    "titan"
+  ],
+  "price": 28300.4
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a296a4"
+  },
+  "code": null,
+  "name": "Lenovo Lappy Mc Lappface",
+  "img": null,
+  "specs": {
+    "manufacturer": "Lenovo",
+    "model": "Lappy Mc Lappface"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "white",
+    "titan"
+  ],
+  "price": 27594
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a296a5"
+  },
+  "code": null,
+  "name": "Razer Speedo Ninja",
+  "img": null,
+  "specs": {
+    "manufacturer": "Razer",
+    "model": "Speedo Ninja"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "white",
+    "titan"
+  ],
+  "price": 13237
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a296a6"
+  },
+  "code": null,
+  "name": "Asus Laptop Lothario",
+  "img": null,
+  "specs": {
+    "manufacturer": "Asus",
+    "model": "Laptop Lothario"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "white",
+    "titan"
+  ],
+  "price": 18904.8
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a296a7"
+  },
+  "code": null,
+  "name": "Acer Laptop Lady",
+  "img": null,
+  "specs": {
+    "manufacturer": "Acer",
+    "model": "Laptop Lady"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "blue",
+    "titan"
+  ],
+  "price": 26364.2
+},{
+  "_id": {
+    "$oid": "63f3b73c0bc6efbdd4a296a8"
+  },
+  "code": null,
+  "name": "Lenovo Digital Duke",
+  "img": null,
+  "specs": {
+    "manufacturer": "Lenovo",
+    "model": "Digital Duke"
+  },
+  "in_stock": false,
+  "colors": [
+    "orange",
+    "blue",
+    "titan"
+  ],
+  "price": 17699.6
+}]
